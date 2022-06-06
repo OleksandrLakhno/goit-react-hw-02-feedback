@@ -14,7 +14,7 @@
     font-weight: 700;
 }
 
-.buttons__hover:hover{
+.buttons:active{
     background-color:blue;
     color: white;
 }
